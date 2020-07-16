@@ -1,6 +1,7 @@
 * The block groups directory has some dataset pertaining to block groups used for interpolation in our paper. 
 * The dataset directory has some datasets used for interpolation.
 * The notebook directory has all the Jupyter Notebooks needed for replication of all the experiments. 
+* For computing centroids at every block group, we use the following [publicly available dataset](https://hub.arcgis.com/datasets/d3a11165055747068a5a456c2e2f0e31_0).
 
 The notebooks correspond to the following in the paper:
 
